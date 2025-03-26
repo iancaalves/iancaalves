@@ -21,4 +21,5 @@ Olá! Sou uma desenvolvedora web apaixonada por criar experiências digitais inc
 
 ### 🌟 Projetos em Destaque
 
-Em breve... 
+ Esse é um projeto direcionado para a área de vendas de iPhone, utilizei das ferramentas: HTML, CSS e JavaScript;
+![apple](https://github.com/user-attachments/assets/873b9cf3-bf23-4a30-a916-c448976b742b)
